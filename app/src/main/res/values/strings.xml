@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyFirstApp</string>
+    <string name="ic_launcher_background">image test</string>
+    <string name="my_photo">My photo</string>
+</resources>
